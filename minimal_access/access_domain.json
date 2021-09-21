@@ -1,0 +1,13 @@
+{
+  "domain": "your-fqdn-dns-name",
+  "srcsocket": {
+    "transport": "udp",
+    "ip": "127.0.0.1",
+    "port": "5060"
+  },
+  "dstsocket": {
+    "transport": "udp",
+    "ip": "127.0.0.1",
+    "port": "5080"
+  }
+}

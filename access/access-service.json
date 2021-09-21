@@ -1,0 +1,32 @@
+{
+  "name": "access_srv09",
+  "desc": "access service",
+  "server_header": "Server",
+  "transports": [
+    "udp",
+    "tcp"
+  ],
+  "sip_address": "external_netalias",
+  "antiflooding": {
+    "sampling": 2,
+    "density": 20,
+    "window": 600,
+    "threshold": 10,
+    "bantime": 600
+  },
+  "authfailure": {
+    "window": 600,
+    "threshold": 10,
+    "bantime": 900
+  },
+  "attackavoid": {
+    "window": 18000,
+    "threshold": 5,
+    "bantime": 86400
+  },
+  "blackips": [],
+  "whiteips": [],
+  "domains": [
+    "your-fqdn-dns-name"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "internal_netalias",
+  "desc": "",
+  "addresses": [
+    {
+      "member": "srv09",
+      "listen": "192.168.122.253",
+      "advertise": "192.168.122.253"
+    }
+  ]
+}

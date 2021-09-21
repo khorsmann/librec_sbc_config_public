@@ -1,0 +1,6 @@
+{
+  "name": "capacity_default",
+  "desc": "",
+  "cps": 5,
+  "concurentcalls": 2000
+}

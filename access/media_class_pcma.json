@@ -1,0 +1,7 @@
+{
+  "name": "media_class_pcma",
+  "codecs": [
+    "PCMA"
+  ],
+  "codec_negotiation": "generous"
+}

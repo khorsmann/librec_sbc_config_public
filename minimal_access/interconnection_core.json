@@ -1,0 +1,27 @@
+{
+  "name": "interconnection_core",
+  "desc": "interconnection_core",
+  "sipprofile": "sipprofile_FS_internal",
+  "distribution": "round_robin",
+  "gateways": [
+    {
+      "name": "gateway_internal",
+      "weight": 1
+    }
+  ],
+  "rtpaddrs": [
+    "192.168.122.253"
+  ],
+  "media_class": "media_class_pcma",
+  "capacity_class": "capacity_default",
+  "translation_classes": [],
+  "manipulation_classes": [],
+  "privacy": [
+    "auto"
+  ],
+  "cid_type": "auto",
+  "nodes": [
+    "_ALL_"
+  ],
+  "enable": true
+}

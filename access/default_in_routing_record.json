@@ -1,0 +1,11 @@
+{
+  "table": "default_in_routing_record",
+  "match": "lpm",
+  "value": "test",
+  "action": "route",
+  "routes": {
+    "primary": "192.168.122.200",
+    "secondary": "192.168.122.200",
+    "load": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "routing_to_core",
+  "desc": "routing_to_core",
+  "action": "route",
+  "routes": {
+    "primary": "interconnection_core",
+    "secondary": "interconnection_core",
+    "load": 0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netalias_external",
+  "desc": "",
+  "addresses": [
+    {
+      "member": "srv09",
+      "listen": "XX.XX.XX.XX",
+      "advertise": "XX.XX.XX.XX"
+    }
+  ]
+}

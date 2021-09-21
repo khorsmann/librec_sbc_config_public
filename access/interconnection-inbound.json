@@ -1,0 +1,22 @@
+{
+  "name": "intercon_external",
+  "desc": "siptrunk1.a.office",
+  "sipprofile": "external",
+  "routing": "default_inbound_routing",
+  "sipaddrs": [
+    "YY.YY.YY.YY"
+  ],
+  "rtpaddrs": [
+    "YY.YY.YY.YY"
+  ],
+  "ringready": false,
+  "media_class": "media_class_pcma",
+  "capacity_class": "default_capacity",
+  "translation_classes": [],
+  "manipulation_classes": [],
+  "authscheme": "IP",
+  "nodes": [
+    "_ALL_"
+  ],
+  "enable": true
+}

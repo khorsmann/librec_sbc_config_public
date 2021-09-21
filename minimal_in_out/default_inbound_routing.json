@@ -1,0 +1,10 @@
+{
+  "name": "default_inbound_routing",
+  "desc": "",
+  "action": "route",
+  "routes": {
+    "primary": "interconnection_outbound",
+    "secondary": "interconnection_outbound",
+    "load": 0
+  }
+}

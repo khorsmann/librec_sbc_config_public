@@ -1,0 +1,22 @@
+{
+  "name": "interconnection_loopback",
+  "desc": "interconnection_loopback",
+  "sipprofile": "sipprofile_FS_loopback",
+  "routing": "routing_to_core",
+  "sipaddrs": [
+    "127.0.0.1"
+  ],
+  "rtpaddrs": [
+    "127.0.0.1"
+  ],
+  "ringready": false,
+  "media_class": "media_class_pcma",
+  "capacity_class": "capacity_default",
+  "translation_classes": [],
+  "manipulation_classes": [],
+  "authscheme": "IP",
+  "nodes": [
+    "_ALL_"
+  ],
+  "enable": true
+}

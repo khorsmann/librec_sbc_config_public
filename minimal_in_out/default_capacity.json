@@ -1,0 +1,7 @@
+{
+   // comment
+  "name": "default_capacity",
+  "desc": "",
+  "cps": 2,
+  "concurentcalls": 10
+}

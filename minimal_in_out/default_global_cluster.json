@@ -1,0 +1,10 @@
+{
+  "name": "defaultname",
+  "members": [
+    "srv09"
+  ],
+  "rtp_start_port": 10000,
+  "rtp_end_port": 60000,
+  "max_concurrent_calls": 6000,
+  "max_calls_per_second": 200
+}
